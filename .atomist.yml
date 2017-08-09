@@ -1,0 +1,14 @@
+---
+kind: "operation"
+client: "com.atomist:rug"
+version: "1.0.0-20170728065612"
+generator:
+  name: "NewRugProject"
+  group: "atomist"
+  artifact: "rug-rugs"
+  version: "0.32.1"
+  parameters:
+    - "owner": "adgf"
+    - "description": "\abdfsfg"
+    - "version": "0.1.0"
+
